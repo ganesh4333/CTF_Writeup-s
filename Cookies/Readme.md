@@ -2,7 +2,7 @@
 
 1. Enter the 'placeholder' value <br/><br/>
    ![Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/1.png "Intercepting an request")<br/>
-   [Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/2.png "Intercepting an request")<br/>
+   [Alt text](/img/2.png "Intercepting an request")<br/>
 2. Inspect the element <br/><br/>
    [Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/3.png "Intercepting an request")<br/>
 4. Observe the cookies <br/><br/>
