@@ -9,7 +9,7 @@
 5. Try to incrementing a value <br/><br/>
    [Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/4.png "Intercepting an request")<br/>
 7. Finally you get the flag <br/><br/>
-   [Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/5.png "Intercepting an request")<br/>
+   [Alt text](https://github.com/ganesh4333/CTF_Writeup-s/blob/main/Cookies/img/5.png "Intercepting an request")<br/><br/>
 
 
 
